@@ -1,7 +1,7 @@
 class Hero: #template
     pass
 
-hero1 = Hero() 
+hero1 = Hero() #object
 hero2 = Hero()
 hero3 = Hero()
 
